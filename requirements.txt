@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+google-generativeai
+pymongo
+bcrypt
+python-jose
+passlib
+dnspython
+certifi
